@@ -4,6 +4,7 @@
 //
 //  Created by Tommy-Carlos Williams on 01/11/11.
 //  Copyright 2011 Devgeeks. All rights reserved.
+//	MIT Licensed
 //
 
 #ifdef PHONEGAP_FRAMEWORK
