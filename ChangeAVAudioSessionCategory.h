@@ -13,7 +13,6 @@
 #import "PGPlugin.h"
 #endif
 
-#import "AudioStreamer.h"
 #import <UIKit/UIkit.h>
 
 @interface ChangeAVAudioSessionCategory : PGPlugin {
